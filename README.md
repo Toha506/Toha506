@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Toha506
-- 👀 I’m interested in Gaming 
-- 🌱 I’m currently studying academics of NCTB Bangladesh 
-- 💞️ I’m i wil try to collaborate after my SSC exams held on March 2k24
+- 👀 I’m interested in Gaming and Coding
 - 📫 How to reach me-(Insta:le_toha)
 
 <!---
